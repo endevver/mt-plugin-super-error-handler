@@ -1,6 +1,6 @@
 name: Super Error Handler
 description: A plugin for Melody/Movable Type used to diagnose empty error messages
-version: 0.1.0
+version: 0.1.1
 author_name: Endevver, LLC
 author_link: http://endevver.com
 id: SuperErrorHandler
